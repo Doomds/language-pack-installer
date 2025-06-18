@@ -22,3 +22,6 @@ Il est utile pour automatiser les installations multilingues sur Windows 10, not
 - Copier les .cab dans le dossier indiqué par $chemin.
 - Lancer le script PowerShell en tant qu’administrateur.
 - Suivre les messages affichés pour vérifier la bonne installation.
+
+### License
+This project is licensed under the MIT License.
